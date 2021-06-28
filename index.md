@@ -4,8 +4,8 @@
 
 ### Category Name 1 
 
-[Project 1 Title](/sample_page)
-<img src="images/dummy_thumbnail.jpg?raw=true"/>
+[Aztec Temple Run](https://play.google.com/store/apps/details?id=com.PISMOInkubator.AzteTempleRun)
+<img src="https://play-lh.googleusercontent.com/glI4JuICMyX5cQNxEOUqd4tfW-J00YZtoZQJdm53Q2VPp1A-02S1popHCxFAiSIMug=w720-h310-rw"/>
 
 ---
 [Project 2 Title](/pdf/sample_presentation.pdf)
