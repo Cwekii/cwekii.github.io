@@ -2,7 +2,7 @@
 
 ---
 
-### Category Name 1 
+### Done projcets
 
 [Aztec Temple Run](https://play.google.com/store/apps/details?id=com.PISMOInkubator.AzteTempleRun)
 <img src="https://play-lh.googleusercontent.com/glI4JuICMyX5cQNxEOUqd4tfW-J00YZtoZQJdm53Q2VPp1A-02S1popHCxFAiSIMug=w720-h310-rw"/>
@@ -20,7 +20,7 @@ Nice game very good
 
 ---
 
-### Category Name 2
+### Projects in workshop
 
 - [Project 1 Title](http://example.com/)
 - [Project 2 Title](http://example.com/)
